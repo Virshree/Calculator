@@ -1,0 +1,24 @@
+
+.cal{
+
+    box-sizing: border-box;
+    border: 2px solid black;
+    justify-content: center;
+    margin: auto;
+    width:280px;
+    height:280px;
+    margin-top: 20px;
+    display: grid;
+    
+}
+button,input {
+    width:100%;
+    background-color: black;
+    color: white;
+    
+}
+ .equal{
+    background-color: red;
+    color: white;
+    width:100%;
+} 
